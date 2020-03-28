@@ -4,6 +4,12 @@
   <p align="center">A progressive <a href="http://nodejs.org" target="blank">Node.js</a> framework for building efficient and scalable server-side applications, heavily inspired by <a href="https://angular.io" target="blank">Angular</a>.</p>
     <p align="center">
 
+___
+# About
+
+This project was build for investigate Nest.js framework. Idea of application in save info about user, then create analytic graph crossing chats, etc. Also that project is stoped. If you have any ideas, just make a fork and send your update to this repository.
+___
+
 ## Installation
 
 ```bash

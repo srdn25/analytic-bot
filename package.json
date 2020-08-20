@@ -27,7 +27,7 @@
     "@nestjs/core": "^6.0.0",
     "@nestjs/mongoose": "^6.1.2",
     "@nestjs/platform-express": "^6.0.0",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "dotenv": "^8.1.0",
     "fastest-validator": "^0.6.17",
     "jsonwebtoken": "^8.5.1",
